@@ -240,7 +240,7 @@ const IndexPage = ({ data }) => {
     <div class="row">
       <div class="twelve wide column">
         <img class="ui fluid image" src={DevicesImg} />
-        <h1 class="ui header">Design Beautiful Websites Quickly</h1>
+        <h1 class="ui header">Fastest way to build</h1>
         <p>Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.</p>
       </div>
     </div>
